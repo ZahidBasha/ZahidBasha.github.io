@@ -1,2 +1,3 @@
 name: S K Zahid Basha
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
